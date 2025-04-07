@@ -1,0 +1,15 @@
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\bin\Debug\net8.0\RepositoryPattern.EF.deps.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\bin\Debug\net8.0\RepositoryPattern.EF.runtimeconfig.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\bin\Debug\net8.0\RepositoryPattern.EF.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\bin\Debug\net8.0\RepositoryPattern.EF.pdb
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.csproj.AssemblyReference.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.AssemblyInfoInputs.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.AssemblyInfo.cs
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.csproj.CoreCompileInputs.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.sourcelink.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\refint\RepositoryPattern.EF.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.pdb
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\RepositoryPattern.EF.genruntimeconfig.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repository pattern .EF\obj\Debug\net8.0\ref\RepositoryPattern.EF.dll
