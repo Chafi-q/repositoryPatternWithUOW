@@ -1,0 +1,36 @@
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\appsettings.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\repositoryPattern with unity of work.staticwebassets.endpoints.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\repositoryPattern with unity of work.exe
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\repositoryPattern with unity of work.deps.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\repositoryPattern with unity of work.runtimeconfig.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\repositoryPattern with unity of work.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\repositoryPattern with unity of work.pdb
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.csproj.AssemblyReference.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.AssemblyInfoInputs.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.AssemblyInfo.cs
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.csproj.CoreCompileInputs.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\scopedcss\bundle\repositoryPattern with unity of work.styles.css
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets\msbuild.repositoryPattern with unity of work.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets\msbuild.repositoryPattern with unity of work.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets\msbuild.build.repositoryPattern with unity of work.props
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.repositoryPattern with unity of work.props
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.repositoryPattern with unity of work.props
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\reposito.BCF353D1.Up2Date
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\refint\repositoryPattern with unity of work.dll
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.pdb
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\repositoryPattern with unity of work.genruntimeconfig.cache
+C:\Users\chafiq\source\repos\repositoryPattern with unity of work\repositoryPattern with unity of work\obj\Debug\net8.0\ref\repositoryPattern with unity of work.dll
